@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "3efde307447f067910dbe423790018fe"
+build_time: [1623723603, 128713000]
+inputs:
+  "/Users/Ronish/Documents/iOS Udemy/Dicee-iOS13/Dicee-iOS13/ViewController.swift": [1623723602, 998889740]
+  "/Users/Ronish/Documents/iOS Udemy/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift": [1623709041, 771501957]
+  "/Users/Ronish/Documents/iOS Udemy/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift": [1623709041, 865317298]
